@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-ai-bot",
+  "version": "1.0.0",
+  "description": "AgniPrash Autonomous Minecraft Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "mineflayer": "^4.20.1",
+    "mineflayer-pathfinder": "^2.4.5",
+    "minecraft-data": "^3.57.0",
+    "vec3": "^0.1.8"
+  }
+}
